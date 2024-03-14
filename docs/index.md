@@ -1,1 +1,1 @@
-This images page is [here][/2d-interface/images]
+This images page is [here](/docs/2d-interface/images.md)
